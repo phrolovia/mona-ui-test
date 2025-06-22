@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://use.typekit.net/zop2fdb.css");
+@import "tailwindcss";
+/*@import url("dist/mona-ui/styles/base.css");*/
+@source "./projects/mona-ui/";
+@source "./projects/mona-ui-tester/";
+
+@theme {
+    --color-background: #ddd;
+    --color-text: #141517;
+}
